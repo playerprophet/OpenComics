@@ -33,6 +33,11 @@
  - minimum order: 1000
  – has special comics section of services, comics people have used
 
+#### [Doujinpress](http://www.doujinpress.com/)
+
+- no minimum order
+- good customer service
+- 
 ## Appendix
 
 ### Articles, reviews, testimonials
